@@ -1,0 +1,18 @@
+{
+  "name": "tesseldarknet",
+  "version": "1.0.0",
+  "description": "Use your Tessel with Google Compute Engine running Darknet YOLO to perform multibox detection over websockets. We can then point a servo at the object of interest and speak out what we see via the speaker.",
+  "main": "tesselDarknetWs.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "www.github.com/tessel/t2-cli",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "See github.com/jasonmayes for setup instructions."
+}
