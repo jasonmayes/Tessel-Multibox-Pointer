@@ -1,6 +1,9 @@
 # Tessel-Multibox-Pointer
 Use your Tessel with Google Compute Engine GPU instance running Darknet YOLO via a Node.js server to perform multibox detection over websockets. We can then point a servo at the object of interest and speak out what we see via the speaker.
 
+![tessel-pointer](https://user-images.githubusercontent.com/4972997/32421324-1c905812-c24c-11e7-9ce4-43a9864eac45.gif)
+
+
 
 ## How to use this?
 
